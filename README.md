@@ -25,7 +25,7 @@ npm install
 ```
 4.添加平台，4 5两步中请根据实际情况更改，安卓版本为`android`，IOS版本为`ios`，另外windows系统上不能添加ios平台  
 ```shell
-ionic platform and ios
+ionic platform add ios
 ```
 5.构建  
 ```shell
