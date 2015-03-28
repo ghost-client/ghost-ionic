@@ -15,13 +15,11 @@
     "shelljs": "^0.3.0"
   },
   "cordovaPlugins": [
-    "org.apache.cordova.camera",
     "org.apache.cordova.splashscreen",
-    "org.apache.cordova.media-capture",
-    "org.apache.cordova.file-transfer",
-    "org.apache.cordova.file",
-    "de.appplant.cordova.plugin.local-notification",
-    "org.apache.cordova.network-information",
-    "org.apache.cordova.statusbar"
+    "org.apache.cordova.statusbar",
+    "org.apache.cordova.device",
+    "com.ionic.keyboard",
+    "com.brodysoft.sqlitePlugin",
+    "nl.x-services.plugins.toast"
   ]
 }
