@@ -1,0 +1,23 @@
+{
+    "version": "0.8.1",
+    "name": "de.appplant.cordova.plugin.local-notification",
+    "cordova_name": "LocalNotification",
+    "description": "The plugin supports scheduling local notifications in various ways with a single interface. It also allows you to update, clear or cancel them. There are different interfaces to query for local notifications and a complete set of events to hook into the life cycle of local notifications. To get a deep overview we recommend to read about all the topics in our wiki and try out the Kitchen Sink App",
+    "license": "Apache 2.0",
+    "repo": "https://github.com/katzer/cordova-plugin-local-notifications.git",
+    "keywords": [
+        "appplant",
+        "notification",
+        "local notification"
+    ],
+    "platforms": [
+        "ios",
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
