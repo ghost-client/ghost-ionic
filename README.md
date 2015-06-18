@@ -9,6 +9,13 @@ GHOST博客是轻量级的博客，使用`nodejs`开发，可以一键部署或�
 GHOST提供基于Oauth2的认证体系，关于开发时的API请参考我的博客[Ghost开发之API](http://www.net2blog.com/ghost-api/)，其中很多接口未作详细使用说明  
 目前0.1.0版本只完成了部分功能，包括获取文章列表，获取标签列表和用户列表，展示文章详情，其余的待后续完善  
 
+#测试账号
+之前做的时候都是用的自己的博客做的测试，但是其他人使用的时候并没有GHOST博客，因此这里给出一个测试用的博客以及账号密码。
+
+博客地址(site): http://os.net2blog.com  
+用户名(username): test@test.com  
+密码(password): test1234  
+
 #应用截图
 [http://ghost-client.github.io/ghost-ionic/](http://ghost-client.github.io/ghost-ionic/)
 
